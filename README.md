@@ -8,7 +8,7 @@ It was written for learning purposes: both for the
 Nand2Tetris course and as a simple project to learn about
 emulation.
 
-It's still a work in progress.
+It's still a work in progress. Under debugging.
 
 Thanks to Noam Nisan and Shimon Schocken for releasing
 their course online under a Creative Common
