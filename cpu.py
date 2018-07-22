@@ -81,7 +81,7 @@ class CPU:
             x = self.registerD
             y = self.data_mem[self.registerA] if a else self.registerA
             print('D, M; ' if a else 'D, A; ', end='')
-            out, zr, ng = ALU(x, y, comp)
+            out, zr, ng = alu(x, y, comp)
 
             # execute instruction - dest -- TODO: refactor this
             if dest == 1:
