@@ -1,5 +1,7 @@
 # Hack Emulator
 
+Status: Pre-Alpha
+
 Hack is the 16-bit computer built in the "From Nand to
 Tetris" course (https://www.nand2tetris.org/).
 
